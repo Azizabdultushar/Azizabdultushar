@@ -28,8 +28,8 @@ Welcome to my GitHub! I’m passionate about building efficient hardware solutio
 - Common power format (CPF) & Unified power format (UPF) scripting
 
 ## 🤝 **Let's Connect!**
-- **[LinkedIn](#) https://www.linkedin.com/in/tusher-aziz/  **  
-- **[Email](#) azizabdul.unibre@gmail.com**  
+- **[LinkedIn](#)https://www.linkedin.com/in/tusher-aziz/**  
+- **[Email](#)azizabdul.unibre@gmail.com**  
 
 Thanks for visiting my GitHub profile. Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!
 

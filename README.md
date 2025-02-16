@@ -1,6 +1,6 @@
 # Hi, I'm Abdul Aziz 👋
 
-**Hardware Developer | Problem Solver | Processor Architecture Enthusiast | EDA Operator | Terminal User**
+**Hardware Developer | Problem Solver | FPGA & Processor Architecture Enthusiast | EDA Operator | Terminal User**
 
 
 Welcome to my GitHub! I’m passionate about building efficient hardware solutions, exploring processor architectures, and optimizing workflows with Electronic Design Automation (EDA) tools. Whether it's writing low-level code, designing circuits, or automating tasks in the terminal, I'm always eager to solve complex problems and learn new technologies.

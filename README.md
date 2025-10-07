@@ -17,6 +17,7 @@ Welcome to my GitHub! I’m passionate about building efficient hardware solutio
 - **Domains:** Embedded Systems, Computer Architecture, FPGA Design, RTL Development.
 
 ## 📂 **Highlighted Projects**
+- **[Kria K26, KR260 board](#):** MPSoC ultrascale+ Low power design.
 - **[RISC-V Processor Design](#):** Physical Design and Power Integrity Analysis of RISC-V Processor Cores.
 - **[EDA Automation Scripts](#):** Automated Data Acquisition Program for Static IRDrop.
 - **[Ultra low-power design](#):** Ultra low power FPGA design for deep sea application.
